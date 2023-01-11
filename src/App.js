@@ -12,7 +12,7 @@ function App() {
           <p className="lead">My Name is Sachin Rajgire and I am instructor  </p>
           <p className="lead"><a href="https://github.com/sachinrajgire">Here</a> is my Github Link  </p>
           <p className="lead"><a href="http://webdevnotes.wynisco.com">Here</a> Here is Class Notes Link </p>
-          <p className="lead"><a href="webdevhw.wynisco.com">Here</a> Here is Homeworks Link </p>
+          <p className="lead"><a href="http://webdevhw.wynisco.com">Here</a> Here is Homeworks Link </p>
           <p className="lead"><a href="https://docs.google.com/spreadsheets/d/1I75Kt78QSCRSAiF74yBttNyWVI4bq2ONsTWnN_ai9iA/edit?usp=sharing">Here</a> Main Google Spreadsheet </p>
 
      <DataTable />
